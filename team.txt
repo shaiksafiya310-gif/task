@@ -1,0 +1,18 @@
+Team collaboration:
+-------------------
+Description:
+------------
+Team collaboration is the process where team members work together, 
+share ideas, and communicate effectively to achieve a common goal.
+Flow Representation:
+--------------------
+Step 1: Start
+Step 2: Define common goal
+Step 3: Assign roles and responsibilities
+Step 4: Share ideas and plan tasks
+Step 5: Communicate regularly
+Step 6: Work together on tasks
+Step 7: Review progress and give feedback
+Step 8: Resolve issues if any
+Step 9: Complete the project
+Step 10: End
