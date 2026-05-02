@@ -1,0 +1,30 @@
+1.Agile:
+Description:
+Agile is a software development methodology that focuses on delivering
+work in small, incremental iterations, allowing teams to adapt quickly
+to changes. It emphasizes continuous feedback, collaboration, and improvement 
+to produce high-quality results efficiently.
+
+flow representation:
+---------------------
+Step 1: Start
+
+Step 2: Gather requirements from client
+
+Step 3: Break requirements into small tasks (iterations/sprints)
+
+Step 4: Plan the current sprint
+
+Step 5: Design the solution for selected tasks
+
+Step 6: Develop (write code)
+
+Step 7: Test the developed features
+
+Step 8: Deploy the working product
+
+Step 9: Collect feedback from client/users
+
+Step 10: If changes or new requirements exist, go back to Step 3
+
+Step 11: Else, End

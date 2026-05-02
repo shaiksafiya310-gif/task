@@ -1,0 +1,35 @@
+difference between traditional and agile:
+-----------------------------------------
+| Aspect               | Traditional (Waterfall)     | Agile                          |
+| -------------------- | --------------------------- | ------------------------------ |
+| Approach             | Linear, step-by-step        | Iterative, cyclic              |
+| Flexibility          | Very low (changes are hard) | High (changes allowed anytime) |
+| Delivery             | One final delivery          | Multiple small releases        |
+| Customer Involvement | Only at beginning/end       | Continuous involvement         |
+| Testing              | Done at the end             | Done in every iteration        |
+| Risk                 | Higher (issues found late)  | Lower (issues found early)     |
+
+flow representation for traditional:
+-------------------------------------
+Step 1: Start
+Step 2: Gather all requirements
+Step 3: Design the system
+Step 4: Develop (coding)
+Step 5: Test the complete system
+Step 6: Deploy the final product
+Step 7: Maintain
+Step 8: End
+
+flow representation for agile:
+-------------------------------
+Step 1: Start
+Step 2: Gather initial requirements
+Step 3: Divide into small tasks (sprints)
+Step 4: Plan sprint
+Step 5: Design
+Step 6: Develop
+Step 7: Test
+Step 8: Deploy small feature
+Step 9: Collect feedback
+Step 10: Repeat from Step 3 until project completion
+Step 11: End
