@@ -1,0 +1,19 @@
+scrum:
+Description:
+--------------
+Scrum is an Agile framework used to manage and develop projects through
+short cycles called sprints.It focuses on team collaboration,
+continuous feedback, and incremental delivery of working products.
+flow representation:
+--------------------
+Step 1: Start
+Step 2: Create Product Backlog (list of requirements)
+Step 3: Plan Sprint (select tasks from backlog)
+Step 4: Start Sprint (2–4 weeks)
+Step 5: Daily Scrum Meeting (discuss progress)
+Step 6: Develop and Test features
+Step 7: Sprint Review (show completed work)
+Step 8: Sprint Retrospective (improve process)
+Step 9: Update backlog if needed
+Step 10: Repeat from Step 3 until project completion
+Step 11: End

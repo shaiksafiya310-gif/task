@@ -1,0 +1,19 @@
+jira:
+description:
+-------------
+Jira is a project management and issue-tracking tool.It is widely used
+by Agile teams to plan, track, and manage tasks, bugs, and workflows
+efficiently.
+Flow representation:
+--------------------
+Step 1: Start
+Step 2: Create project in Jira
+Step 3: Add issues (tasks/bugs/stories)
+Step 4: Assign issues to team members
+Step 5: Plan sprint (if Agile)
+Step 6: Work on assigned tasks
+Step 7: Update status (To Do → In Progress → Done)
+Step 8: Review and test completed work
+Step 9: Track progress using boards/reports
+Step 10: Close issues
+Step 11: End
